@@ -1,0 +1,3 @@
+[submodule "Solar-Prediction"]
+	path = Solar-Prediction
+	url = https://github.com/MadhavKrishna1/Solar-Prediction.git
